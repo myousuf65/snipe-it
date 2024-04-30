@@ -1,0 +1,2 @@
+- replace .env.docker with settings in this file
+- uses apache2 for reverse proxy >> config located at docker/000.something.conf file
