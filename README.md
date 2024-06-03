@@ -28,8 +28,6 @@ sudo certbot --nginx -d subdomain.domain.com
 ### .htaccess file config for cpanel
 
 ```
-
-
 RewriteEngine On
 
 # Redirect all traffic to port 3000
